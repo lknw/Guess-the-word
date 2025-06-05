@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item></item>
+        <item>NEWTON</item>
+        <item>PASCAL</item>
+        <item>EINSTEIN</item>
+        <item>OM</item>
+        <item>AMPERE</item>
+        <item>TESLA</item>
+        <item>BOHR</item>
+        <item>RONTGEN</item>
+        <item>RUTHERFORD</item>
+    </string-array>
+</resources>
+
